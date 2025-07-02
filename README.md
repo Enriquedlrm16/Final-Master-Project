@@ -27,7 +27,7 @@ Welcome to my final Master's project! This repository showcases an **interactive
 
 ## 🖼️ App Preview
 
-![App Screenshot](www/screenshot_app.png)
+![App Screenshot](www/Screenshot_app.png)
 
 ---
 

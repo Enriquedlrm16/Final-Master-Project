@@ -18,13 +18,7 @@ Welcome to my final Master's project! This repository showcases an **interactive
 
 ├── app.R # Main Shiny app script
 
-├── credit_risk.Rmd # R Markdown report of the model and analysis
-
-├── genes_neural.csv # Input data file
-
-├── my_matrix_filled_merged.csv # Cleaned and merged dataset
-
-├── my_model_MM_prueba_2_all.h5 # Trained neural network model
+├── neural_network_model_TFM_2.h5 # Trained neural network model
 
 ├── www/ # Folder for static assets (e.g. screenshots)
 
@@ -33,7 +27,7 @@ Welcome to my final Master's project! This repository showcases an **interactive
 
 ## 🖼️ App Preview
 
-![App Screenshot](www/screenshot.png)
+![App Screenshot](www/screenshot_app.png)
 
 ---
 

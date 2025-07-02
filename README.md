@@ -10,7 +10,7 @@ Welcome to my final Master's project! This repository showcases an **interactive
 - 📊 **Interactive interface** built with Shiny for real-time data input and results
 - 🧠 **Deep learning model (.h5)** trained with real-world financial features
 - 📁 Easily reproducible with included datasets and model
-- 📉 Full analysis documented in R Markdown (`credit_risk.Rmd`)
+- 📉 Full analysis documented in R Markdown (`markdown_credit_risk.html`)
 
 ---
 

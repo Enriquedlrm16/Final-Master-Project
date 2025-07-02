@@ -33,7 +33,7 @@ Welcome to my final Master's project! This repository showcases an **interactive
 
 ## ⚙️ Requirements
 
-Make sure you have **R >= 4.0** installed and the packages and versions of the files "requirements.txt" and "manifest.json".
+Make sure you have **R >= 4.0** installed and the packages and versions of the files `requirements.txt` and `manifest.json`.
 Main libraries:
 
 ```r
